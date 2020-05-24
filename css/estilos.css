@@ -1,0 +1,34 @@
+body {
+    background-color: #5252d3;
+    background-size:
+    
+  }
+  
+  .menu {
+    background-color: #9e91db;
+  }
+  
+  .menu li{
+    list-style: none;
+  }
+  
+  .menu ul{
+    display: flex;
+    justify-content: space-evenly;
+  }
+  
+  a {
+    color: whitesmoke;
+    text-decoration: none;
+  }
+  
+  .site-subtitle,
+  .site-title{
+    text-align: center;
+    color: #FC634D;
+  }
+  
+  .site-subtitle{
+    color: #FCAD4C;
+    font-family: italic
+  }
